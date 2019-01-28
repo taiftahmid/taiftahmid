@@ -1,11 +1,12 @@
---
-layout: archive
-permalink: /machine-learning/
-title: "Machine Learning Posts by Taif"
+---
+layout: posts
+permalink: /data-wrangling/
+title: "Data Wrangling projects"
 author_profile: true
 header:
-    image:"/images/homepage.jpg"
---
+  image: "/images/firstimage.png"
+---
+
 
 
 {% include group-by-array collection=site.posts field="tags" %}

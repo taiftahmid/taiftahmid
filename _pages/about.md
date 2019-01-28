@@ -1,8 +1,10 @@
---
+---
 title: "About"
 permalink: /about/
 header:
-    image: "/images/homepage.jpg"
-    
-I'm a machine learning and data scientist enthusiast who excels at exploratory analysis
-and data visalizations.
+  image: "/images/taiftahmidbio.jpg"
+---
+
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
