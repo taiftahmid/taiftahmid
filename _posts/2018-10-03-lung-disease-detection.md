@@ -5,6 +5,7 @@ tags: [machine learning, data science, neural network]
 header:
     image: "/images/lungdiseasedetection.png"
 excerpt: "Machine Learning, Lung Disease Classification, Data Science"
+mathjax: "true"
 ---
 
 # H1 Heading
