@@ -4,7 +4,7 @@ permalink: /machine-learning/
 title: "Machine Learning projects"
 author_profile: true
 header:
-  image: "/images/firstimage.png"
+  image: "/images/computerreading.png"
 ---
 
 
